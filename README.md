@@ -23,14 +23,18 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop mode](./images/desktop-mode.png.jpg)
+- Desktop mode
+
+![Desktop mode](./images/desktop-mode.png)
+
+- Mobile mode
 
 ![Mobile mode](./images/mobile-mode.png)
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/tajwararik/Frontend-Mentor-Challenge-2)
+- Live Site URL: [Live site URL](https://tajwararik.github.io/Frontend-Mentor-Challenge-2/)
 
 ## My process
 
